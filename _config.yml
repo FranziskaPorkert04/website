@@ -74,9 +74,9 @@ author:
    # - label: "Instagram"
    #   icon: "fab fa-fw fa-instagram"
    #   url: "https://instagram.com/"
-     - label: "Email"
-       icon: "fas fa-fw fa-envelope"
-       url: "mailto:fporkert@uni-bonn.de"
+   #  - label: "Email"
+    #   icon: "fas fa-fw fa-envelope"
+     #  url: "mailto:fporkert@uni-bonn.de"
        
 footer:
   links:

@@ -51,14 +51,14 @@ Our participants are mainly Master's students, PhDs and postdocs, but we also wa
 </html>
 
 
-Together with a group of other researchers, I am organizing the group "Women* in Physics Bonn". 
-We aim to build a network of women* at an early state of their career in Physics at the University of Bonn through monthly meetings.
-Our participants are mainly Master's students, PhDs and postdocs, but we also warmly welcome any women* doing a Bachelor`s and interested in connecting with more experienced women* researchers.
+#Together with a group of other researchers, I am organizing the group "Women* in Physics Bonn". 
+#We aim to build a network of women* at an early state of their career in Physics at the #University of Bonn through monthly meetings.
+#Our participants are mainly Master's students, PhDs and postdocs, but we also warmly welcome any #women* doing a Bachelor`s and interested in connecting with more experienced women* researchers.
 
 Visit our [Website](https://www.physik-astro.uni-bonn.de/women-in-physics/en/homepage) 
 
 
-<div class="flex-container">
-  <img src="/assets/images/sizeforwebsite" alt="Description" width="200" height="auto">
-</div>
+#<div class="flex-container">
+#  <img src="/assets/images/sizeforwebsite" alt="Description" width="200" height="auto">
+#</div>
 

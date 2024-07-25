@@ -3,5 +3,7 @@ main:
     url: /research/
   - title: "Talks"
     url: /talks/
+  - title: "Diversity"
+    url: /diversity/
   - title: "About"
     url: /about/

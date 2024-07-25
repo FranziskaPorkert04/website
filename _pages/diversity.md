@@ -15,7 +15,6 @@ Visit our [Indico Page](https://indico.hiskp.uni-bonn.de/event/568/)
 
 **Women* in Physics Bonn**
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">

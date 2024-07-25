@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Franziska Porkert"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/photo_avatar.jpg"
   bio    : "PhD student."
   links:
  #   - label: "Website"

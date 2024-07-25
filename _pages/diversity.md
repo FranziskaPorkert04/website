@@ -39,7 +39,7 @@ Visit our [Indico Page](https://indico.hiskp.uni-bonn.de/event/568/)
 <body>
 
 <div class="flex-container">
-  <img src="/assets/images/sizeforwebsite" alt="Logo Women* in Physics Bonn"  width="200" height="auto">
+  <img src="/assets/images/sizeforwebsite.jpg" alt="Logo Women* in Physics Bonn"  width="200" height="auto">
   <p>
 Together with a group of other researchers, I am organizing the group "Women* in Physics Bonn". 
 We aim to build a network of women* at an early state of their career in Physics at the University of Bonn through monthly meetings.

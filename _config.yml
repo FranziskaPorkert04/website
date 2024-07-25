@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Franziska Porkert"
   avatar : "/assets/images/photo_avatar.jpeg"
-  bio    : "PhD student."
+  bio    : "PhD student in theoretical physics."
   links:
  #   - label: "Website"
   #    icon: "fas fa-fw fa-link"
@@ -74,6 +74,9 @@ author:
    # - label: "Instagram"
    #   icon: "fab fa-fw fa-instagram"
    #   url: "https://instagram.com/"
+     - label: "Email"
+       icon: "fas fa-fw fa-envelope"
+       url: "mailto:fporkert@uni-bonn.de"
 
 footer:
   links:

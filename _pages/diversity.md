@@ -3,8 +3,7 @@ title: "Diversity"
 permalink: /diversity/
 ---
 
-<img src="/assets/images/sizeforwebsite.jpg" alt="Description" style="float: left; margin-right: 20px;">
-This text will appear next to the image.
+<img src="/assets/images/sizeforwebsite.jpg" alt="Description" style="float: left; margin-right: 20px;">This text will appear next to the image.
 
 **Bonn Fall HEP Meeting 2024: Embracing Diversity in High Energy Physics**
 

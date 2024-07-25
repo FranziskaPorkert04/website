@@ -49,32 +49,32 @@ September 2022, Mainz Institute for Theoretical Physics (Mainz, Germany)
 
 **Invited seminar talks**  
 
-Title: Feynman Integrals and Special Geometries    
+Title: *Feynman Integrals and Special Geometries*    
 May 2024, High Energy Group Meeting, Nordita (Stockholm, Sweden)
 
 ---
 
-Title: Analytically Solving the Kite Integral Family: Tackling Five Masses and Two Tori  
+Title: *Analytically Solving the Kite Integral Family: Tackling Five Masses and Two Tori*  
 March 2024, Amplitudes seminar, University of Pauda (Online)
 
 ---
 
-Title: Analytically Solving the 5-Mass Kite-Integral Family on Two Tori  
+Title: *Analytically Solving the 5-Mass Kite-Integral Family on Two Tori*  
 November 2023, Seminar on theoretical elementary particle physics, Techincal University Munich (Garching, Germany)
 
 ---
 
-Title: Massless Feynman Integrals in 2D & Single-valued Period  
+Title: *Massless Feynman Integrals in 2D & Single-valued Periods*  
 August 2023, Theory Seminar, Uppsala Universitet (Uppsala, Sweden)
 
 ---
 
-Title: Relations Between 2D Fishnet Integrals and Calabi-Yau geometries  
+Title: *Relations Between 2D Fishnet Integrals and Calabi-Yau geometries*  
 November 2022, Geometry and Scattering Amplitudes Journal Club (Online)
 
 ---
 
-Title: One-loop Amplitudes in Einstein-Yang-Mills From Forward Limits  
+Title: *One-loop Amplitudes in Einstein-Yang-Mills From Forward Limits*  
 June 2021, Theory Seminar, Uppsala Universitet (Uppsala, Sweden)
 
 

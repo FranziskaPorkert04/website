@@ -74,9 +74,12 @@ author:
    # - label: "Instagram"
    #   icon: "fab fa-fw fa-instagram"
    #   url: "https://instagram.com/"
+     - label: "Location"
+        icon: "fas fa-fw fa-map-marker-alt"
+        url: "https://maps.google.com/?q=Your+Location+Address"
      - label: "Email"
        icon: "fas fa-fw fa-envelope"
-       url: "mailto:fporkert@uni-bonn.de"
+       text: "Universität Bonn"
 
 footer:
   links:

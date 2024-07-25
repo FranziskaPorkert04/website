@@ -5,7 +5,7 @@ permalink: /
 ---
 
 
-I am a third year PhD student at University Bonn, advised by Claude Duhr working on mathematical methods for the analytic computations of scattering amplitudes and specifically Feynman integrals.
+I am a third year PhD student at University Bonn, advised by Claude Duhr working on mathematical methods for the analytic computations of scattering amplitudes, specifically Feynman integrals.
 
 Contact: fporkert [AT] uni-bonn [DOT] de  
 

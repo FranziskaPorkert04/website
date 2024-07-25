@@ -5,6 +5,9 @@ permalink: /research/
 
 An up-to-date list of my publications can also be found on [Inspire](https://inspirehep.net/authors/2023335?ui-citation-summary=true) and [Arxiv](https://arxiv.org/search/hep-th?searchtype=author&query=Porkert,+F). 
 
+---
+---
+
 **Twisted Riemann bilinear relations and Feynman integrals**   
 Claude Duhr, *FP*, Cathrin Semper, Sven F. Stawinski  
 [arxiv:2407.17175](https://arxiv.org/abs/2407.17175)

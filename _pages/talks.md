@@ -5,7 +5,7 @@ permalink: /talks/
 
 This list was last updated in July 2024. 
 
-**Conference talks**
+<p style="font-size: 24px;">**Conference talks**</p>
 
 Workshop: Elliptic Integrals in Fundamental Physics
 

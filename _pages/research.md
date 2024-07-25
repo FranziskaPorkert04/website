@@ -18,14 +18,14 @@ Claude Duhr, Albrecht Klemm, Florian Loebbert, Christoph Nega, *FP*
 ---
 
 **The soaring kite: a tale of two punctured tori**  
-Mathieu Giroux, Andrzej Pokraka, *FP* , Yoann Sohnle
+Mathieu Giroux, Andrzej Pokraka, *FP* , Yoann Sohnle  
 [arxiv:2401.14307](https://arxiv.org/abs/2401.14307)
 
 
 ---
 
 **The Basso-Dixon Formula and Calabi-Yau Geometry**  
-Claude Duhr, Albrecht Klemm, Florian Loebbert, Christoph Nega, *FP* 
+Claude Duhr, Albrecht Klemm, Florian Loebbert, Christoph Nega, *FP*  
 [arxiv:2310.08625](https://arxiv.org/abs/2310.08625)
 
 ---

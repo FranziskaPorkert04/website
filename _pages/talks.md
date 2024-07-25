@@ -40,4 +40,14 @@ Title: Calabi-Yau Geometries and 2D Fishnet Integrals,
 September 2022, Mainz Institute for Theoretical Physics (Mainz, Germany)  
 [Slides](https://indico.mitp.uni-mainz.de/event/212/contributions/4067/attachments/2987/3554/Porkert.pdf)
 
+**Invited seminar talks**  
+
+Title: Feynman Integrals and Special Geometries    
+May 2024, High Energy Group Meeting, Nordita (Stockholm, Sweden)
+
 ---
+
+
+Title: Feynman Integrals and Special Geometries    
+May 2024, High Energy Group Meeting, Nordita (Stockholm, Sweden)
+

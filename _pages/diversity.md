@@ -3,6 +3,8 @@ title: "Diversity"
 permalink: /diversity/
 ---
 
+---
+
 **Bonn Fall HEP Meeting 2024: Embracing Diversity in High Energy Physics**
 
 We are organizing a workshop!

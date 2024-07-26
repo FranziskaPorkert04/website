@@ -7,4 +7,4 @@ I am a third year PhD student at Bonn University, advised by Claude Duhr working
 
 Before coming to Bonn, I obtained a Master's degree in physics in Berlin and Uppsala, completing a Master's thesis on Einstein-Yang-Mills amplitudes. Earlier in my academic journey, I obtained Bachelor's degrees both in Mathematics and Physics in Regensburg. 
 
-Outside of physiscs and maths, I enjoy bouldering, hiking, birdwatching and boardgames. 
+Outside of physiscs and maths, I enjoy bouldering, kayaking, hiking, birdwatching and boardgames. 

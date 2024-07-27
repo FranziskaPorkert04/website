@@ -17,17 +17,15 @@ Visit our [Indico Page](https://indico.hiskp.uni-bonn.de/event/568/)
 
 **Women* in Physics Bonn**
 
-Together with a group of other researchers, I am organizing the group "Women* in Physics Bonn". 
-We aim to build a network of women* at an early state of their career in Physics at the University of Bonn through monthly meetings. These include informal meetings as well as talks by invited speakers. Our participants are mainly Master's students, PhDs and postdocs, but we also warmly welcome any women* doing a Bachelor`s and interested in connecting with more experienced women* researchers.
-
-Visit our [Website](https://www.physik-astro.uni-bonn.de/women-in-physics/en/homepage) 
-
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
-    ![Alt text for the image](/assets/images/sizeforwebsite.jpg)
+    ![Logo of women* in physics](/assets/images/sizeforwebsite.jpg)
   </div>
   <div style="flex: 1; padding-left: 20px;">
-    This is the text that will appear next to the image. You can write a description or any content you want to accompany the image. This layout uses a simple flexbox structure to place the image and text side by side. You can adjust the styling as needed to fit your design preferences.
+   Together with a group of other researchers, I am organizing the group "Women* in Physics Bonn". 
+We aim to build a network of women* at an early state of their career in Physics at the University of Bonn through monthly meetings. These include informal meetings as well as talks by invited speakers. Our participants are mainly Master's students, PhDs and postdocs, but we also warmly welcome any women* doing a Bachelor`s and interested in connecting with more experienced women* researchers.
   </div>
 </div>
+
+Visit our [Website](https://www.physik-astro.uni-bonn.de/women-in-physics/en/homepage) 

@@ -20,7 +20,7 @@ Visit our [Indico Page](https://indico.hiskp.uni-bonn.de/event/568/)
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
-    ![Logo of women* in physics]("/assets/images/sizeforwebsite.jpg")
+    ![Logo of women* in physics](/assets/images/sizeforwebsite.jpg)
   </div>
   <div style="flex: 1;">
    Together with a group of other researchers, I am organizing the group "Women* in Physics Bonn".

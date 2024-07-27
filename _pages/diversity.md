@@ -20,7 +20,7 @@ Visit our [Indico Page](https://indico.hiskp.uni-bonn.de/event/568/)
 
    Together with a group of other researchers, I am organizing the group "Women* in Physics Bonn".  
    
-    Visit our [Website](https://www.physik-astro.uni-bonn.de/women-in-physics/en/homepage) 
+   Visit our [Website](https://www.physik-astro.uni-bonn.de/women-in-physics/en/homepage) 
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
@@ -31,7 +31,8 @@ Visit our [Indico Page](https://indico.hiskp.uni-bonn.de/event/568/)
   </div>
 </div>
 
- Our participants are mainly Master's students, PhDs and postdocs, but we also warmly welcome any women* doing a Bachelor`s and interested in connecting with more experienced women* researchers.
+
+Our participants are mainly Master's students, PhDs and postdocs, but we also warmly welcome any women* doing a Bachelor`s and interested in connecting with more experienced women* researchers.
 
 
 

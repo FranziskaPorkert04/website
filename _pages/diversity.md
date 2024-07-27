@@ -11,7 +11,7 @@ We are organizing a workshop!
 
 High energy physics (HEP) unites physicists from theory and experiment irrespective of age, gender, or personal background. This is also the aim of our workshop: bringing together people focusing on various aspects of HEP across different career stages. We are particularly excited to amplify the voices of female* physicists while ensuring a diverse and inclusive environment for everyone.
 
-Visit our [Indico Page](https://indico.hiskp.uni-bonn.de/event/568/) 
+Visit our [Indico Page](https://indico.hiskp.uni-bonn.de/event/568/)  
 
 ---
 

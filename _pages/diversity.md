@@ -16,6 +16,7 @@ Visit our [Indico Page](https://indico.hiskp.uni-bonn.de/event/568/)
 ---
 
 **Women* in Physics Bonn**
+
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
     <img src="/assets/images/sizeforwebsite.jpg" alt="Logo of women* in physics" style="max-width: 100%;">
@@ -24,6 +25,7 @@ Visit our [Indico Page](https://indico.hiskp.uni-bonn.de/event/568/)
     This is the text that will appear next to the image. You can write a description or any content you want to accompany the image. This layout uses a simple flexbox structure to place the image and text side by side. You can adjust the styling as needed to fit your design preferences.
   </div>
 </div>
+
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">

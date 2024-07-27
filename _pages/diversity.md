@@ -31,7 +31,7 @@ Visit our [Indico Page](https://indico.hiskp.uni-bonn.de/event/568/)
   </div>
 </div>
 
-<br><br>
+<br>
 
 Our participants are mainly Master's students, PhDs and postdocs, but we also warmly welcome any women* doing a Bachelor`s and interested in connecting with more experienced women* researchers.
 

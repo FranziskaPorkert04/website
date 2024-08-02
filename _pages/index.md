@@ -15,8 +15,6 @@ Contact: fporkert [AT] uni-bonn [DOT] de
 
 **Upcoming and recent travel**
 
-July 29 - August 2: [MEGA (Leipzig)](https://www.mis.mpg.de/de/events/series/mega-2024)
-
 August 6 - 8: [Elliptics and Beyond'24 (Munich)](https://indico.ph.tum.de/event/7444/)
 
 August 12 - 23: [SPECIAL FUNCTIONS (Munich)](https://www.munich-iapbp.de/special-functions)

@@ -11,7 +11,7 @@ This list was last updated in July 2024.
 **Upcoming**  
 
 Workshop: Elliptics and Beyond’24  
-Title: TBA  
+Title: Canonical differential equations beyond genus one
 August 2024, Max Planck Institute for Astrophysics (Garching, Germany)
 
 ---

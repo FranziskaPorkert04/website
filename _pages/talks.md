@@ -10,12 +10,6 @@ This list was last updated in July 2024.
 
 **Upcoming**  
 
-Workshop: Elliptics and Beyond’24  
-Title: Canonical differential equations beyond genus one
-August 2024, Max Planck Institute for Astrophysics (Garching, Germany)
-
----
-
 Workshop: Holonomic Techniques for Feynman Integrals,  
 Title: TBA  
 October 2024, Max Planck Institute for Astrophysics (Garching, Germany)
@@ -24,6 +18,13 @@ October 2024, Max Planck Institute for Astrophysics (Garching, Germany)
 ---
 
 **Conference talks**  
+
+Workshop: Elliptics and Beyond’24  
+Title: Canonical differential equations beyond genus one
+August 2024, Max Planck Institute for Astrophysics (Garching, Germany)
+[Slides](https://indico.ph.tum.de/event/7444/contributions/9410/attachments/6328/8578/porkert.pdf)
+
+---
 
 Workshop: Beyond Elliptic Polylogarithm  
 Title: *Towards a Coaction for Iterated Eisenstein Integrals*  

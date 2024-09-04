@@ -14,7 +14,7 @@ Workshop: Holonomic Techniques for Feynman Integrals,
 Title: TBA  
 October 2024, Max Planck Institute for Astrophysics (Garching, Germany)
 
-Title: *TBA* 
+Title: *TBA*  
 November 2024, McGill HEP Seminar (Online)
 
 ---

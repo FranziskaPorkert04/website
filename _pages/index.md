@@ -21,4 +21,4 @@ October 28 -30:  Center for Quantum Mathematics (Odense, Denmark)
 
 ---
 
-This website was last updated in August 2024.
+This website was last updated in September 2024.

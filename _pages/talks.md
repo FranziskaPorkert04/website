@@ -14,8 +14,21 @@ Workshop: Holonomic Techniques for Feynman Integrals,
 Title: TBA  
 October 2024, Max Planck Institute for Astrophysics (Garching, Germany)
 
-Title: *TBA*   
-November 2024, McGill HEP Seminar (Online)
+---
+
+Title: *TBA*    
+October 2024, Seminar of the Center for Quantum Mathematics (Odense, Denmark)
+
+---
+
+Title: *Quadratic Relations and Self-Duality in Maximal Cuts of Feynman Integrals*    
+November 2024, McGill HEP-seminar (Online)
+
+---
+
+Title: *Twisted Cohomology $\&$ Canonical Differential Equations for Maximal Cuts*    
+November 2024, *Loop-the-Loop* Online Workshop (Online)
+
 
 ---
 ---
@@ -53,20 +66,7 @@ September 2022, Mainz Institute for Theoretical Physics (Mainz, Germany)
 
 **Invited seminar talks**  
 
-Title: *Quadratic Relations and Self-Duality in Maximal Cuts of Feynman Integrals*    
-November 2024, McGill HEP-seminar (Online)
 
----
-
-Title: *Twisted Cohomology $\&$ Canonical Differential Equations for Maximal Cuts*    
-November 2024, *Loop-the-Loop* Online Workshop (Online)
-
----
-
-Title: *TBA*    
-October 2024, Seminar of the Center for Quantum Mathematics (Odense, Denmark)
-
----
 
 Title: *Feynman Integrals and Special Geometries*    
 May 2024, High Energy Group Meeting, Nordita (Stockholm, Sweden)

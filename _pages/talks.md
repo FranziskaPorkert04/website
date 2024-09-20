@@ -16,7 +16,7 @@ October 2024, Max Planck Institute for Astrophysics (Garching, Germany)
 
 ---
 
-Title: *Feynman Integrals & (Hyper)elliptic Curves*    
+Title: *Feynman Integrals & (Hyper-)Elliptic Curves*    
 October 2024, Seminar of the Center for Quantum Mathematics (Odense, Denmark)
 
 ---

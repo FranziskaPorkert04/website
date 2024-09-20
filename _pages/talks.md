@@ -26,7 +26,7 @@ November 2024, McGill HEP-seminar (Online)
 
 ---
 
-Title: *Twisted Cohomology $\&$ Canonical Differential Equations for Maximal Cuts*    
+Title: *Twisted Cohomology & Canonical Differential Equations for Maximal Cuts*    
 November 2024, *Loop-the-Loop* Online Workshop (Online)
 
 

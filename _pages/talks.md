@@ -11,7 +11,7 @@ This list was last updated in July 2024.
 **Upcoming**  
 
 Workshop: Holonomic Techniques for Feynman Integrals,  
-Title: Canonical Differential Equations for Maximal Cuts of Hyperelliptic Feynman Integrals
+Title: Canonical Differential Equations for Maximal Cuts of Hyperelliptic Feynman Integrals   
 October 2024, Max Planck Institute for Astrophysics (Garching, Germany)
 
 ---

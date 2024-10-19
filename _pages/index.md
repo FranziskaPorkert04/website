@@ -18,9 +18,9 @@ Contact: fporkert [AT] uni-bonn [DOT] de
 
 **Upcoming and recent travel**
 
-October 14 - 18: [Holonomic Techniques for Feynman Integrals (Munich)](https://indico.mpp.mpg.de/event/10191/#:~:text=The%20workshop%20%22Holonomic%20Techniques%20for,gravitational%20observables%20in%20particle%20physics.)
-
 October 28 -30:  Center for Quantum Mathematics (Odense, Denmark)
+
+February 10-14: Max Planck Institute for Mathematics in the Sciences (Leipzig, Germany)
 
 ---
 

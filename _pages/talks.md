@@ -3,7 +3,7 @@ title: "Talks"
 permalink: /talks/
 ---
 
-This list was last updated in July 2024. 
+This list was last updated in October 2024. 
 
 ---
 ---
@@ -31,7 +31,7 @@ November 2024, *Loop-the-Loop* Online Workshop (Online)
 
 Workshop: Holonomic Techniques for Feynman Integrals,  
 Title: Canonical Differential Equations for Maximal Cuts of Hyperelliptic Feynman Integrals   
-October 2024, Max Planck Institute for Astrophysics (Garching, Germany)   
+October 2024, Max Planck Institute for Physics (Garching, Germany)   
 [Slides](https://indico.mpp.mpg.de/event/10191/contributions/38062/attachments/20696/26191/Slides_F_Porkert.pdf
 )
 
@@ -39,7 +39,7 @@ October 2024, Max Planck Institute for Astrophysics (Garching, Germany)
 
 Workshop: Elliptics and Beyond’24  
 Title: Canonical differential equations beyond genus one
-August 2024, Max Planck Institute for Astrophysics (Garching, Germany)   
+August 2024, Max Planck Institute for Physics (Garching, Germany)   
 [Slides](https://indico.ph.tum.de/event/7444/contributions/9410/attachments/6328/8578/porkert.pdf)
 
 ---

@@ -10,12 +10,6 @@ This list was last updated in July 2024.
 
 **Upcoming**  
 
-Workshop: Holonomic Techniques for Feynman Integrals,  
-Title: Canonical Differential Equations for Maximal Cuts of Hyperelliptic Feynman Integrals   
-October 2024, Max Planck Institute for Astrophysics (Garching, Germany)
-
----
-
 Title: *Feynman Integrals & (Hyper-)Elliptic Curves*    
 October 2024, Seminar of the Center for Quantum Mathematics (Odense, Denmark)
 
@@ -34,6 +28,14 @@ November 2024, *Loop-the-Loop* Online Workshop (Online)
 ---
 
 **Conference talks**  
+
+Workshop: Holonomic Techniques for Feynman Integrals,  
+Title: Canonical Differential Equations for Maximal Cuts of Hyperelliptic Feynman Integrals   
+October 2024, Max Planck Institute for Astrophysics (Garching, Germany)   
+[Slides](https://indico.mpp.mpg.de/event/10191/contributions/38062/attachments/20696/26191/Slides_F_Porkert.pdf
+)
+
+---
 
 Workshop: Elliptics and Beyond’24  
 Title: Canonical differential equations beyond genus one

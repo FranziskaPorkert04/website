@@ -28,7 +28,7 @@ November 2024, (Online)
 
 ---   
 
-Workshop: Holonomic Techniques for Feynman Integrals,  
+Workshop: *Holonomic Techniques for Feynman Integrals*     
 Title: Canonical Differential Equations for Maximal Cuts of Hyperelliptic Feynman Integrals   
 October 2024, Max Planck Institute for Physics (Garching, Germany)   
 [Slides](https://indico.mpp.mpg.de/event/10191/contributions/38062/attachments/20696/26191/Slides_F_Porkert.pdf
@@ -36,8 +36,8 @@ October 2024, Max Planck Institute for Physics (Garching, Germany)
 
 ---
 
-Workshop: Elliptics and Beyond’24  
-Title: Canonical differential equations beyond genus one
+Workshop: Elliptics and Beyond’24   
+Title: *Canonical Differential Equations Beyond Genus One*   
 August 2024, Max Planck Institute for Physics (Garching, Germany)   
 [Slides](https://indico.ph.tum.de/event/7444/contributions/9410/attachments/6328/8578/porkert.pdf)
 

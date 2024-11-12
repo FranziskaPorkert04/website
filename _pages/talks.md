@@ -19,7 +19,7 @@ November 2024, McGill HEP-seminar (Online)
 **Conference talks**  
 
 
-Workshop: *Loop-the-Loop*: Feynman calculus and its applications to gravity and particle physics   
+Workshop: *Loop-the-Loop*   
 Title: *Twisted Cohomology & Canonical Differential Equations*    
 November 2024, (Online)   
 [Slides](https://indico.mitp.uni-mainz.de/event/423/contributions/5161/attachments/3744/4941/FP_Loop_the_loop.pdf

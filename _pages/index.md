@@ -18,10 +18,8 @@ Contact: fporkert [AT] uni-bonn [DOT] de
 
 **Upcoming and recent travel**
 
-October 28 -30:  Center for Quantum Mathematics (Odense, Denmark)
-
 February 10-14: Max Planck Institute for Mathematics in the Sciences (Leipzig, Germany)
 
 ---
 
-This website was last updated in September 2024.
+This website was last updated in November 2024.

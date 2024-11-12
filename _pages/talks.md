@@ -3,17 +3,12 @@ title: "Talks"
 permalink: /talks/
 ---
 
-This list was last updated in October 2024. 
+This list was last updated in November 2024. 
 
 ---
 ---
 
 **Upcoming**  
-
-Title: *Feynman Integrals & (Hyper-)Elliptic Curves*    
-October 2024, Seminar of the Center for Quantum Mathematics (Odense, Denmark)
-
----
 
 Title: *Quadratic Relations and Self-Duality in Maximal Cuts of Feynman Integrals*    
 November 2024, McGill HEP-seminar (Online)
@@ -69,6 +64,11 @@ September 2022, Mainz Institute for Theoretical Physics (Mainz, Germany)
 **Invited seminar talks**  
 
 
+
+Title: *Feynman Integrals & (Hyper-)Elliptic Curves*    
+October 2024, Seminar of the Center for Quantum Mathematics (Odense, Denmark)
+
+---
 
 Title: *Feynman Integrals and Special Geometries*    
 May 2024, High Energy Group Meeting, Nordita (Stockholm, Sweden)

@@ -10,8 +10,9 @@ This list was last updated in November 2024.
 
 **Upcoming**  
 
-Title: *Quadratic Relations and Self-Duality in Maximal Cuts of Feynman Integrals*    
-November 2024, McGill HEP-seminar (Online)
+Workshop: *Youngstars -- Physics and Number Theory*   
+Title: *TBA*   
+January 2024, (Online)   
 
 ---
 ---
@@ -19,7 +20,7 @@ November 2024, McGill HEP-seminar (Online)
 **Conference talks**  
 
 
-Workshop: *Loop-the-Loop*   
+Workshop: *Youngstars -- Loop-the-Loop*   
 Title: *Twisted Cohomology & Canonical Differential Equations*    
 November 2024, (Online)   
 [Slides](https://indico.mitp.uni-mainz.de/event/423/contributions/5161/attachments/3744/4941/FP_Loop_the_loop.pdf
@@ -29,7 +30,7 @@ November 2024, (Online)
 ---   
 
 Workshop: *Holonomic Techniques for Feynman Integrals*     
-Title: Canonical Differential Equations for Maximal Cuts of Hyperelliptic Feynman Integrals   
+Title: *Canonical Differential Equations for Maximal Cuts of Hyperelliptic Feynman Integrals*   
 October 2024, Max Planck Institute for Physics (Garching, Germany)   
 [Slides](https://indico.mpp.mpg.de/event/10191/contributions/38062/attachments/20696/26191/Slides_F_Porkert.pdf
 )
@@ -68,6 +69,10 @@ September 2022, Mainz Institute for Theoretical Physics (Mainz, Germany)
 **Invited seminar talks**  
 
 
+Title: *Twisted Riemann Bilinear Relations and Cuts of Feynman Integrals*       
+November 2024, McGill HEP-seminar (Online)   
+
+---
 
 Title: *Feynman Integrals & (Hyper-)Elliptic Curves*    
 October 2024, Seminar of the Center for Quantum Mathematics (Odense, Denmark)

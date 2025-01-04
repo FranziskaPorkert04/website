@@ -8,6 +8,12 @@ An up-to-date list of my publications can also be found on [Inspire](https://ins
 ---
 ---
 
+**Canonical Differential Equations Beyond Genus One**   
+Claude Duhr, *FP*,  Sven F. Stawinski  
+[arxiv:2412.02300](https://arxiv.org/abs/2412.02300)
+
+---
+
 **Self-duality from twisted cohomology**   
 Claude Duhr, *FP*, Cathrin Semper, Sven F. Stawinski  
 [arxiv:2408.04904](https://arxiv.org/pdf/2408.04904)

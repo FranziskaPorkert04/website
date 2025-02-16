@@ -3,7 +3,7 @@ title: "Talks"
 permalink: /talks/
 ---
 
-This list was last updated in November 2024. 
+This list was last updated in January 2025. 
 
 ---
 ---

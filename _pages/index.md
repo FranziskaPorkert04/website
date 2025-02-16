@@ -18,8 +18,8 @@ Contact: fporkert [AT] uni-bonn [DOT] de
 
 **Upcoming and recent travel**
 
-February 10-14: Max Planck Institute for Mathematics in the Sciences (Leipzig, Germany)
+March 17-28: Mainz  MITP workshop, The Arithmetic of Calabi-Yau Manifolds
 
 ---
 
-This website was last updated in November 2024.
+This website was last updated in January 2025.

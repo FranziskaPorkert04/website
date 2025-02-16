@@ -10,14 +10,16 @@ This list was last updated in November 2024.
 
 **Upcoming**  
 
-Workshop: *Youngstars -- Physics and Number Theory*   
-Title: *TBA*   
-January 2024, (Online)   
-
 ---
 ---
 
 **Conference talks**  
+
+Workshop: *Youngstars -- Physics and Number Theory*   
+Title: *(Hyperelliptic) Feynman Integrals From Differential Equations*   
+January 2025, (Online)   
+
+---     
 
 
 Workshop: *Youngstars -- Loop-the-Loop*   
